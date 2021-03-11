@@ -55,3 +55,7 @@ java.lang.Exception: 没有错误，测试而已
 	at com.aqinn.howdoes.rxjava.Observable.subscribe(Observable.java:16)
 	at com.aqinn.howdoes.rxjava.test.Client.main(Client.java:25)
 ```
+
+## License
+
+[MIT](https://github.com/Aqinn/HowDoesRxJava/blob/master/LICENSE) © [Aqinn](https://github.com/Aqinn)
